@@ -66,7 +66,7 @@ do
   end
 
   function v3:unpack()
-    return self.x,self.y
+    return self.x,self.y,self.z
   end
 
 end;
